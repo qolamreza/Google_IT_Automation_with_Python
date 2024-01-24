@@ -15,9 +15,9 @@
 ## Courses
 
 - [x] Crash Course on Python
-- [ ] Using Python to Interact with the Operating System
-- [ ] Introduction to Git and GitHub
-- [ ] Troubleshooting and Debugging Techniques
-- [ ] Configuration Management and the Cloud
-- [ ] Automating Real-World Tasks with Python
+- [x] Using Python to Interact with the Operating System
+- [x] Introduction to Git and GitHub
+- [x] Troubleshooting and Debugging Techniques
+- [x] Configuration Management and the Cloud
+- [x] Automating Real-World Tasks with Python
 
