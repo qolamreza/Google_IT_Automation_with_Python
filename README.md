@@ -21,10 +21,10 @@
   - Create your own Python objects
 
 - [x] **Using Python to Interact with the Operating System**
-        - Setup, configure, and use your own developer environment in Python
-- Manipulate files and processes running on the Operating System using Python
-- Understand and use regular expressions (regex), a powerful tool for processing text files
-- Know when to choose Bash or Python, and create small scripts using Bash
+  - Setup, configure, and use your own developer environment in Python
+  - Manipulate files and processes running on the Operating System using Python
+  - Understand and use regular expressions (regex), a powerful tool for processing text files
+  - Know when to choose Bash or Python, and create small scripts using Bash
       
 - [x] Introduction to Git and GitHub
 - [x] Troubleshooting and Debugging Techniques
