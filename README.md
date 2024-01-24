@@ -15,13 +15,11 @@
 ## Courses
 
 - [x] Crash Course on Python
- 
      - Understand what Python is and why Python is relevant to automation
-
      - Write short Python scripts to perform automated actions
-
      - Understand how to use the basic Python structures: strings, lists, and dictionaries
      - Create your own Python objects
+
 - [x] Using Python to Interact with the Operating System
 - [x] Introduction to Git and GitHub
 - [x] Troubleshooting and Debugging Techniques
