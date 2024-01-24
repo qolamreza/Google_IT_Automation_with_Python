@@ -4,7 +4,7 @@
 
 ## What you'll learn
 
-\item Automate tasks by writing Python scripts
+1- Automate tasks by writing Python scripts
 
 Use Git and GitHub for version control
 
