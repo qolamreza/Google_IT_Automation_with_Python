@@ -12,6 +12,14 @@
 
 - [x] Analyze real-world IT problems and implement the appropriate strategies to solve those problems
 
+## Skills you'll gain
+
+- [x] Configuration Management
+- [x] Python Programming
+- [x] Using Version Control
+- [x] Troubleshooting & Debugging
+- [x] Automation
+
 ## Courses
 
 - [x] **Crash Course on Python**
