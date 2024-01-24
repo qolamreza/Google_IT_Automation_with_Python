@@ -2,6 +2,7 @@
 
 ## Tools
 - [x] [Jupyter Notebook](https://jupyter.org/)
+- [x] [Stack Overflow](https://stackoverflow.com/)
 
 ## What you'll learn
 
