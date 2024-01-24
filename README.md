@@ -14,8 +14,8 @@
 
 ## Courses
 
-& check Crash Course on Python
-     - [x]item1 Understand what Python is and why Python is relevant to automation
+ Crash Course on Python
+     - Understand what Python is and why Python is relevant to automation
 
 Write short Python scripts to perform automated actions
 
