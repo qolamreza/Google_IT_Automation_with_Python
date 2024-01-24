@@ -4,7 +4,7 @@
 
 ## What you'll learn
 
-- [x] Automate tasks by writing Python scripts
+- [x] **Automate tasks by writing Python scripts**
 
 - [x] Use Git and GitHub for version control
 
