@@ -1,7 +1,7 @@
 # Google IT Automation with Python Professional Certificate
 
 ## Tools
-- [x] [Jupyter Notebooks](https://jupyter.org/)
+- [x] [Jupyter Notebook](https://jupyter.org/)
 
 ## What you'll learn
 
