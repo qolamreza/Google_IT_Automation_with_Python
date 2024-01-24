@@ -26,7 +26,12 @@
   - Understand and use regular expressions (regex), a powerful tool for processing text files
   - Know when to choose Bash or Python, and create small scripts using Bash
       
-- [x] Introduction to Git and GitHub
+- [x] **Introduction to Git and GitHub**
+  - Understand why version control is a fundamental tool for coding and collaboration
+  - Install and run Git on your local machine
+  - Use and interact with GitHub
+  - Collaborate with others through remote repositories
+
 - [x] Troubleshooting and Debugging Techniques
 - [x] Configuration Management and the Cloud
 - [x] Automating Real-World Tasks with Python
