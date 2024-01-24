@@ -32,7 +32,21 @@
   - Use and interact with GitHub
   - Collaborate with others through remote repositories
 
-- [x] Troubleshooting and Debugging Techniques
-- [x] Configuration Management and the Cloud
-- [x] Automating Real-World Tasks with Python
+- [x] **Troubleshooting and Debugging Techniques**
+  - Analyze real-world IT problems and implement the appropriate strategies to solve those problems
+  - Demonstrate techniques to quickly find and solve the root cause of problems in IT infrastructure
+  - Understand the root cause for problems related to speed, crashes, or exhausted resources in your computer
+  - Identify the most common pitfalls of your code and how to fix them
+
+- [x] **Configuration Management and the Cloud**
+  - Understand the benefits of configuration management and infrastructure as code
+  - Create and maintain containers with Docker and Kubernetes to create efficient and safe application deployment
+  - Automatically deploy new virtual machines running in the Cloud
+  - Deploy changes in a safe manner following CICD principles
+
+- [x] **Automating Real-World Tasks with Python**
+  - Use Python external libraries to create and modify documents, images, and messages
+  - Understand and use Application Programming Interfaces (APIs) to interact with web services
+  - Understand and use data serialization to send messages between running programs
+  - Build a solution using the skills you have learned
 
