@@ -4,7 +4,7 @@
 
 ## What you'll learn
 
-- [x] **Automate tasks by writing Python scripts**
+- [x] Automate tasks by writing Python scripts
 
 - [x] Use Git and GitHub for version control
 
@@ -14,13 +14,13 @@
 
 ## Courses
 
-- [x] Crash Course on Python
+- [x] **Crash Course on Python**
      - Understand what Python is and why Python is relevant to automation
      - Write short Python scripts to perform automated actions
      - Understand how to use the basic Python structures: strings, lists, and dictionaries
      - Create your own Python objects
 
-- [x] Using Python to Interact with the Operating System
+- [x] **Using Python to Interact with the Operating System**
 
       - Setup, configure, and use your own developer environment in Python
       - Manipulate files and processes running on the Operating System using Python
