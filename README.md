@@ -21,6 +21,7 @@
      - Create your own Python objects
 
 - [x] Using Python to Interact with the Operating System
+
       - Setup, configure, and use your own developer environment in Python
       - Manipulate files and processes running on the Operating System using Python
       - Understand and use regular expressions (regex), a powerful tool for processing text files
