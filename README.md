@@ -14,7 +14,7 @@
 
 ## Courses
 
- Crash Course on Python
+ -[x] Crash Course on Python
  
      - Understand what Python is and why Python is relevant to automation
 
