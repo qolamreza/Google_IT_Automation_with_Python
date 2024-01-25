@@ -3,6 +3,7 @@
 ## Tools
 - [x] [Jupyter Notebook](https://jupyter.org/)
 - [x] [Stack Overflow](https://stackoverflow.com/)
+- [x] [Qwiklabs](https://go.qwiklabs.com/) 
 
 ## What you'll learn
 
